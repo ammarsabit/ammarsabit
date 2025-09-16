@@ -1,6 +1,6 @@
 # Hi there, I'm Ammar Sabit! 👋
 
-I'm a second-year student at Adama Science and Technology University (ASTU) in Ethiopia, currently exploring my options for a department. As a passionate cybersecurity enthusiast and a junior MERN stack developer, I'm excited about building secure, full-stack applications and diving deeper into ethical hacking and network security.
+I'm a second-year student at Adama Science and Technology University (ASTU) in Ethiopia. A passionate cybersecurity enthusiast and a junior MERN stack developer, I'm excited about building secure, full-stack applications and diving deeper into ethical hacking and network security.
 
 ## 🚀 About Me
 - 📍 Location: Adama, Oromia, Ethiopia
