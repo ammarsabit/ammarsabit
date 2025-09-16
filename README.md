@@ -59,8 +59,8 @@ Here are some of my pinned repositories that showcase my skills:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ammarsabit&layout=compact&theme=radical)
 
 ## 🤝 Let's Connect!
-- 📧 Email: [your-email@example.com](ammarsabit39@gmail.com)
-- 🐦 Twitter/X: [@yourhandle](https://twitter.com/ammarsabit67)
+- 📧 Email: [ammarsabit39@gmail.com](ammarsabit39@gmail.com)
+- 🐦 Twitter/X: [@ammarsabit67](https://twitter.com/ammarsabit67)
 
 I'm always open to collaborations, feedback on my projects, or chatting about cybersecurity and web dev. Let's build something awesome together!
 
