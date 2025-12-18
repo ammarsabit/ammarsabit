@@ -1,12 +1,10 @@
 # Hi there, I'm Ammar Sabit! 👋
 
-I'm a second-year student at Adama Science and Technology University (ASTU) in Ethiopia. A passionate cybersecurity enthusiast and a junior MERN stack developer, I'm excited about building secure, full-stack applications and diving deeper into ethical hacking and network security.
-
 ## 🚀 About Me
 - 📍 Location: Adama, Oromia, Ethiopia
 - 🎓 Education: Adama Science and Technology University (ASTU)
 - 💻 Interests: Web development, cybersecurity, and algorithmic problem-solving
-- 🌱 Currently Learning: Advanced cybersecurity concepts, deepening MERN stack expertise, and more Bash/Python scripting for automation
+- 🌱 Currently Learning: Advanced cybersecurity concepts
 
 ## 🛠️ Technologies & Skills
 ### Programming Languages
@@ -32,8 +30,7 @@ I'm a second-year student at Adama Science and Technology University (ASTU) in E
 ### Tools & Others
 - Git (Version Control)
 - Linux CLI
-- Networking Concepts
-- Scripting for Cybersecurity (Beginner Level)
+- Scripting 
 
 ## 📂 Featured Projects
 Here are some of my pinned repositories that showcase my skills:
@@ -61,9 +58,3 @@ Here are some of my pinned repositories that showcase my skills:
 ## 🤝 Let's Connect!
 - 📧 Email: [ammarsabit39@gmail.com](ammarsabit39@gmail.com)
 - 🐦 Twitter/X: [@ammarsabit67](https://twitter.com/ammarsabit67)
-
-I'm always open to collaborations, feedback on my projects, or chatting about cybersecurity and web dev. Let's build something awesome together!
-
----
-
-💡 *“Learning never stops — I’m building, breaking, and securing one step at a time.”*
