@@ -1,60 +1,86 @@
-# Hi there, I'm Ammar Sabit! 👋
+# Ammar Sabit
 
-## 🚀 About Me
-- 📍 Location: Adama, Oromia, Ethiopia
-- 🎓 Education: Adama Science and Technology University (ASTU)
-- 💻 Interests: Web development, cybersecurity, and algorithmic problem-solving
-- 🌱 Currently Learning: Advanced cybersecurity concepts
+**Cybersecurity Practitioner · Full-Stack Developer**  
+Adama, Ethiopia · ammarsabit39@gmail.com · +251 984 622 662
 
-## 🛠️ Technologies & Skills
-### Programming Languages
-- Python
-- C++
-- JavaScript
-- TypeScript
-- Bash
+---
 
-### Frontend
-- React
-- HTML
-- CSS
-- Bootstrap
-- Tailwind CSS
+## About
 
-### Backend
-- Node.js
-- Express.js
-- JWT (Authentication)
-- MongoDB
+I'm a software engineering student at Adama Science and Technology University with a primary focus on cyber security. Most of my time goes into penetration testing, vulnerability research, and documenting exploits — with enough full-stack experience to understand what I'm breaking.
 
-### Tools & Others
-- Git (Version Control)
-- Linux CLI
-- Scripting 
+---
 
-## 📂 Featured Projects
-Here are some of my pinned repositories that showcase my skills:
+## Technical Skills
 
-- **[ASTUMSJ library managment system](https://github.com/Hoamfi/ASTUMSJ_Library_Management_System/)**  
-  📚 A MERN stack library management system developed for ASTU's Muslim Jemea library. Built as the final project for the ASTUMSJ Fullstack Summer Camp.
+**Web Application Security**  
+Vulnerability assessment and exploitation across the OWASP top 10 and beyond — SQL injection, XSS, CSRF, SSRF, JWT attacks, HTTP request smuggling, prototype pollution, web cache poisoning, and access control flaws. 88% completion of PortSwigger Web Security Academy (238 labs).
 
-- **[ThoughtPost](https://github.com/ammarsabit/ThoughtPost)**  
-  📝 A modern mini blogging app built with React, TypeScript, and Bootstrap. Features blog creation, editing, bookmarking, and integration with MockAPI. Perfect for demonstrating full MERN-like capabilities!
+**Binary & Low-Level**  
+x86-64 assembly (30/30 [pwn.college](https://pwn.college/) crash course), static analysis with IDA Pro, dynamic debugging with GDB. Introductory binary exploitation and reverse engineering.
 
-- **[Ammarify](https://github.com/ammarsabit/Ammarify)**  
-  🌐 A replica of CodeWithMosh's Moshify demo website, built with HTML, CSS, and JavaScript. Great practice in responsive web design.
+**Mobile & Network**  
+SSL pinning bypass, root detection bypass, SIM detection bypass via Frida. WPA2 4-way handshake capture and offline cracking with Aircrack-ng and Hashcat. Traffic analysis with Wireshark.
 
-- **[Video_Duration_Calculator_Bash_Script](https://github.com/ammarsabit/Video_Duration_Calculator_Bash_Script)**  
-  ⏱️ A simple Bash script to calculate the total duration of video files in a folder using ffprobe. Useful for media automation—my first step into practical scripting!
+**Security Tooling**  
+Burp Suite · Frida · IDA Pro · Aircrack-ng · Hashcat · Wireshark · GDB
 
-- **[kawaii-todo-list](https://github.com/ammarsabit/kawaii-todo-list)**  
-  ✅ A cute, styled todo list app with CSS. Fun project to experiment with UI/UX design.
+**Development**  
+Full-stack: React · TypeScript · Node.js · Express.js · MongoDB  
+Scripting & automation: Python · Bash  
+Systems: C++ · x86-64 Assembly
 
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ammarsabit&show_icons=true&theme=radical)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ammarsabit&layout=compact&theme=radical)
+## Security
 
-## 🤝 Let's Connect!
-- 📧 Email: [ammarsabit39@gmail.com](ammarsabit39@gmail.com)
-- 🐦 Twitter/X: [@ammarsabit67](https://twitter.com/ammarsabit67)
+### PortSwigger Web Security Academy
+
+Completed **238 labs** — 88% of the full academy.
+
+| Tier | Progress |
+|------|----------|
+| Apprentice | 59 / 59 |
+| Practitioner | 160 / 172 |
+| Expert | 19 / 39 |
+
+Topics covered: SQL injection, XSS, CSRF, SSRF, JWT attacks, HTTP request smuggling, prototype pollution, web cache poisoning, access control, and more.
+
+All labs documented with full exploit chains and writeups → [portswigger-labs-writeup](https://github.com/ammarsabit/portswigger-labs-writeup)
+
+### Writing
+
+Technical walkthroughs published on Medium. One article has exceeded 650 reads.  
+→ [medium.com/@Zer0DayDreamer](https://medium.com/@Zer0DayDreamer)
+
+---
+
+## Development
+
+### [ASTUMSJ Library Management System](https://github.com/Hoamfi/ASTUMSJ_Library_Management_System)
+
+MERN stack library system built for ASTU's Muslim Jemea library. Final project for the ASTUMSJ Fullstack Summer Camp.
+
+### [ThoughtPost](https://github.com/ammarsabit/ThoughtPost)
+
+Mini blogging app built with React, TypeScript, and Bootstrap. Supports post creation, editing, bookmarking, and MockAPI integration.
+
+### [DepartmentWatcher](https://github.com/ammarsabit/DepartmentWatcher)
+
+Python Telegram bot that monitors department announcements and notifies registered students in real time. Active user base of 75+.
+
+### [Video Duration Calculator](https://github.com/ammarsabit/Video_Duration_Calculator_Bash_Script)
+
+Bash script using ffprobe to calculate total video duration across a folder. Supports any format ffprobe can handle.
+
+---
+
+## Links
+
+| | |
+|---|---|
+| LinkedIn | [linkedin.com/in/ammarsabit](https://www.linkedin.com/in/ammarsabit) |
+| Medium | [medium.com/@Zer0DayDreamer](https://medium.com/@Zer0DayDreamer) |
+| pwn.college | [pwn.college/hacker/144431](https://pwn.college/hacker/144431) |
+| PortSwigger writeups | [github.com/ammarsabit/portswigger-labs-writeup](https://github.com/ammarsabit/portswigger-labs-writeup) |
+| Twitter / X | [twitter.com/ammarsabit67](https://twitter.com/ammarsabit67) |
