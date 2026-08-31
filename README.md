@@ -1,13 +1,13 @@
 # Ammar Sabit
 
 **Cybersecurity Practitioner · Full-Stack Developer**  
-Adama, Ethiopia · ammarsabit39@gmail.com · +251 984 622 662
+Adama, Ethiopia · ammarsabit39@gmail.com 
 
 ---
 
 ## About
 
-I'm a software engineering student at Adama Science and Technology University with a primary focus on cyber security. Most of my time goes into penetration testing, vulnerability research, and documenting exploits — with enough full-stack experience to understand what I'm breaking.
+I'm a software engineering student at Adama Science and Technology University with a primary focus on cyber security. Most of my time goes into penetration testing, vulnerability research, and documenting exploits with enough full-stack experience to understand what I'm breaking.
 
 ---
 
@@ -15,12 +15,6 @@ I'm a software engineering student at Adama Science and Technology University wi
 
 **Web Application Security**  
 Vulnerability assessment and exploitation across the OWASP top 10 and beyond — SQL injection, XSS, CSRF, SSRF, JWT attacks, HTTP request smuggling, prototype pollution, web cache poisoning, and access control flaws. 88% completion of PortSwigger Web Security Academy (238 labs).
-
-**Binary & Low-Level**  
-x86-64 assembly (30/30 [pwn.college](https://pwn.college/) crash course), static analysis with IDA Pro, dynamic debugging with GDB. Introductory binary exploitation and reverse engineering.
-
-**Mobile & Network**  
-SSL pinning bypass, root detection bypass, SIM detection bypass via Frida. WPA2 4-way handshake capture and offline cracking with Aircrack-ng and Hashcat. Traffic analysis with Wireshark.
 
 **Security Tooling**  
 Burp Suite · Frida · IDA Pro · Aircrack-ng · Hashcat · Wireshark · GDB
